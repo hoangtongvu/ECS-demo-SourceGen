@@ -4,7 +4,7 @@ using Unity.Collections;
 using System.Diagnostics;
 using System;
 
-namespace Core.Utilities.Extensions
+namespace TweenLib.Utilities.Extensions
 {
     public static unsafe class NativeArrayExtensions
     {
